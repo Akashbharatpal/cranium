@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Akashbharatpal/cranium.git/static/css/main.cedbe98c.css",
+    "main.js": "/Akashbharatpal/cranium.git/static/js/main.1ea6a8a2.js",
+    "static/media/Inter-SemiBold.ttf": "/Akashbharatpal/cranium.git/static/media/Inter-SemiBold.6058d3da655fb35169c2.ttf",
+    "static/media/Inter-Medium.ttf": "/Akashbharatpal/cranium.git/static/media/Inter-Medium.3f7acfe50aad7ad68548.ttf",
+    "static/media/Inter-Light.ttf": "/Akashbharatpal/cranium.git/static/media/Inter-Light.02850f28027788580733.ttf",
+    "static/media/Inter-Regular.ttf": "/Akashbharatpal/cranium.git/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/nodatafound1.jpg": "/Akashbharatpal/cranium.git/static/media/nodatafound1.5e72d16bf0a9ec599f01.jpg",
+    "static/media/searching1.jpg": "/Akashbharatpal/cranium.git/static/media/searching1.042666059dc0479f95a2.jpg",
+    "index.html": "/Akashbharatpal/cranium.git/index.html",
+    "main.cedbe98c.css.map": "/Akashbharatpal/cranium.git/static/css/main.cedbe98c.css.map",
+    "main.1ea6a8a2.js.map": "/Akashbharatpal/cranium.git/static/js/main.1ea6a8a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cedbe98c.css",
+    "static/js/main.1ea6a8a2.js"
+  ]
+}
